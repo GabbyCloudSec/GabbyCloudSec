@@ -1,71 +1,67 @@
-```markdown
-# Hi, I'm Gabriell
+# Gabriell Bedoy
 
-Aspiring Cloud Security Engineer building hands-on experience with AWS, Linux, Python, networking, and automation.
+Focused on cloud security, AWS, Linux, and automation, I am building hands-on experience through projects, labs, and continuous learning. My goal is to design, secure, and support modern cloud environments while developing practical skills in cybersecurity and infrastructure.
 
-## About Me
+## Technical Skills
 
-I'm currently focused on developing practical cloud and cybersecurity skills through labs, projects, and continuous learning. My goal is to design, automate, and secure cloud environments while building a strong foundation in AWS and security engineering.
+* Cloud Security
+* AWS Fundamentals
+* Linux Administration
+* Python
+* Git and GitHub
+* Networking Fundamentals
+* Security Concepts
+
+## Certifications and Training
+
+* ISC2 Candidate
+* AWS Certified Cloud Practitioner (In Progress)
+* TryHackMe Pre Security Path
+* Cisco Networking Academy Cybersecurity Fundamentals
 
 ## Current Focus
 
-- AWS Cloud Security
-- Linux Administration
-- Python Automation
-- Networking Fundamentals
-- Security Best Practices
+* AWS Security
+* Python Automation
+* Linux Administration
+* Networking
+* Cloud Security Best Practices
+* SIEM Fundamentals
 
-## Skills
+## Featured Repositories
 
-### Cloud
+### AWS Security Labs
 
-- AWS
-- EC2
-- IAM
-- S3
-- VPC
-- CloudTrail
+Hands-on cloud security labs and AWS fundamentals.
 
-### Operating Systems
+### Python Security Tools
 
-- Linux
-- Windows
+Python scripts and automation projects focused on security concepts.
 
-### Programming
+### Linux Notes
 
-- Python
-- Bash
+Linux administration and command-line reference notes.
 
-### Networking
+### Cloud Security Notes
 
-- TCP/IP
-- DNS
-- Routing
-- Troubleshooting
+Study notes and references covering cloud security concepts and best practices.
 
-### Tools
+### Portfolio Website
 
-- Git
-- GitHub
-- VS Code
-
-## Certifications
-
-- ISC2 Candidate
-- Certified in Cybersecurity (CC) — In Progress
-- AWS Certified Cloud Practitioner — In Progress
-
-## Learning Platforms
-
-- TryHackMe
-- Cisco Networking Academy
+Personal portfolio showcasing projects, certifications, and technical skills.
 
 ## Goals
 
-- Become a Cloud Security Engineer
-- Strengthen AWS and Linux administration skills
-- Develop automation using Python and Bash
-- Learn Infrastructure as Code with Terraform
-- Build secure and scalable cloud environments
-```
+* Earn AWS Certified Cloud Practitioner
+* Continue building cloud security projects
+* Expand Linux and Python skills
+* Develop hands-on cybersecurity experience
+* Transition into a Cloud Security role
+
+## Connect
+
+Portfolio: https://gabbycloudsec.github.io
+
+GitHub: https://github.com/GabbyCloudSec
+
 
