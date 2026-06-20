@@ -16,17 +16,28 @@ Focused on cloud security, AWS, Linux, and automation, I am building hands-on ex
 
 * ISC2 Candidate
 * AWS Certified Cloud Practitioner (In Progress)
-* TryHackMe Pre Security Path
-* Cisco Networking Academy Cybersecurity Fundamentals
+* Windows Fundamentals
+* Active Directory Fundamentals
+* Networking Concepts
+* Security Principles
+* Cryptography Basics
+* Metasploit Exploitation and Meterpreter
+* Hydra
+* Web Application Basics
+* Digital Forensics Fundamentals
+* Intro to SIEM
 
 ## Current Focus
 
 * AWS Security
-* Python Automation
-* Linux Administration
-* Networking
-* Cloud Security Best Practices
+* Zero Trust Security
+* Active Directory
 * SIEM Fundamentals
+* Digital Forensics
+* Python Automation
+* Cloud Security Best Practices
+* SOC Workflows
+
 
 ## Featured Repositories
 
