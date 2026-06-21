@@ -27,12 +27,12 @@ was the job. Now applying that same discipline to securing cloud environments.
 
 **Pinned Projects**
 
-| Repo | Focus |
-|---|---|
-| [aws-security-labs](https://github.com/GabbyCloudSec/aws-security-labs) | IAM, EC2 hardening, S3, VPC, CloudTrail |
-| [python-security-tools](https://github.com/GabbyCloudSec/python-security-tools) | Automation & scripting for security workflows |
-| [cloud-security-notes](https://github.com/GabbyCloudSec/cloud-security-notes) | AWS security concepts & best practices |
-| [linux-notes](https://github.com/GabbyCloudSec/linux-notes) | Linux administration & Bash |
-| [windows-ad-notes](https://github.com/GabbyCloudSec/windows-ad-notes) | Windows, Active Directory, identity fundamentals |
+| Repo | Focus | Status |
+|---|---|---|
+| [aws-security-labs](https://github.com/GabbyCloudSec/aws-security-labs) | IAM, EC2 hardening, S3, VPC, CloudTrail | ✅ Active |
+| [cloud-security-notes](https://github.com/GabbyCloudSec/cloud-security-notes) | AWS security concepts & best practices | ✅ Active |
+| [linux-notes](https://github.com/GabbyCloudSec/linux-notes) | Linux administration & Bash | ✅ Active |
+| [windows-ad-notes](https://github.com/GabbyCloudSec/windows-ad-notes) | Windows, Active Directory, identity fundamentals | 🚧 In Progress |
+| [python-security-tools](https://github.com/GabbyCloudSec/python-security-tools) | Hash generator, log analyzer, password checker, port scanner | 🚧 Planned |
 
 
