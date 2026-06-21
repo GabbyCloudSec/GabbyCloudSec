@@ -1,56 +1,49 @@
-# Gabriell Bedoy
+# GabbyCloudSec | Cloud Security Portfolio
 
-Cloud security learner focused on AWS security, Linux administration, Active Directory fundamentals, SIEM basics, and Python automation.
+Personal portfolio site for **Gabriell Bedoy** — built and maintained to track my
+progress toward becoming a cloud security engineer.
 
-I’m building hands-on experience through cloud security labs, security notes, scripting projects, and cybersecurity training.
+🔗 **Live site:** [gabbycloudsec.github.io](https://gabbycloudsec.github.io)
 
-## Current Focus
+## About
 
-- AWS security fundamentals
-- IAM, EC2, S3, VPC, and CloudTrail
-- Linux administration and Bash
-- Windows and Active Directory fundamentals
-- SIEM and threat detection basics
-- Python security automation
+I bring a background in healthcare operations into cybersecurity — where protecting
+sensitive data and keeping systems running under strict standards isn't optional.
+I'm currently an **ISC2 Candidate**, working through hands-on rooms and badges on
+**TryHackMe** and coursework through **Cisco Networking Academy**, with a long-term
+goal of working in cloud security.
 
-## Featured Projects
+## What's in this repo
 
-### AWS Security Labs
-Hands-on AWS security labs covering IAM configuration, EC2 hardening, S3 security, VPC security, CloudTrail monitoring, logging, and cloud security best practices.
+| File | Purpose |
+|---|---|
+| `index.html` | Live portfolio site (hero, about, skills, projects, training, contact) |
+| `style.css` | Site styling — dark "mission control" theme with an animated Earth hero |
+| `index-backup.html` | Backup snapshot of the current site |
+| `assets/` | Images and static assets used by the site |
 
-[View Repository](https://github.com/GabbyCloudSec/aws-security-labs)
+## Focus Areas
 
-### Python Security Tools
-Python scripts for security automation, information gathering, and practical scripting practice.
+- **Cloud Security** — AWS IAM, EC2 hardening, S3, VPC, CloudTrail
+- **Security Operations** — SIEM fundamentals, threat detection, log analysis
+- **Systems** — Linux, Windows Security, Active Directory
+- **Automation** — Python, Bash, Git
 
-[View Repository](https://github.com/GabbyCloudSec/python-security-tools)
-
-### Windows & Active Directory Notes
-Windows administration and Active Directory fundamentals, including identity, users, groups, permissions, and security concepts.
-
-[View Repository](https://github.com/GabbyCloudSec/windows-ad-notes)
-
-### Linux Notes
-Linux administration and security fundamentals, including permissions, users, groups, processes, networking, Bash, and core command-line concepts.
-
-[View Repository](https://github.com/GabbyCloudSec/linux-notes)
-
-### Cloud Security Notes
-AWS cloud security notes covering IAM, EC2, S3, VPC, CloudTrail, logging, monitoring, and the AWS Shared Responsibility Model.
-
-[View Repository](https://github.com/GabbyCloudSec/cloud-security-notes)
-
-## Training & Development
+## Training & Credentials
 
 - ISC2 Candidate
-- Preparing for AWS Certified Cloud Practitioner
-- Hands-on labs in Windows fundamentals, Active Directory, networking, SIEM basics, digital forensics, web security, and incident response
-- Continuing practice in AWS security, Zero Trust, Python automation, Linux administration, SOC workflows, and cloud security best practices
+- AWS Cloud Practitioner *(in progress)*
+- TryHackMe — Pre Security Learning Path *(completed, 19h 10m hands-on)*
+- Cisco Networking Academy — 7 courses completed, 5 badges earned, incl. verified
+  Introduction to Cybersecurity certificate
 
-## Connect
+## Contact
 
-- Portfolio: https://gabbycloudsec.github.io/
-- GitHub: https://github.com/GabbyCloudSec
-- Email: gabbycloudsec@protonmail.com
+- Email: [GabbyCloudSec@protonmail.com](mailto:GabbyCloudSec@protonmail.com)
+- GitHub: [github.com/GabbyCloudSec](https://github.com/GabbyCloudSec)
+
+---
+*This README describes the portfolio site itself. Individual lab write-ups and
+scripts live in their own repos, linked from the Projects section of the site.*
 
 
