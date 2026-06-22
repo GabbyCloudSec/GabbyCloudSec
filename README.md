@@ -2,15 +2,15 @@
 
 Aspiring **Cloud Security Engineer** with a background in healthcare operations —
 where protecting sensitive data and keeping systems running wasn't optional, it
-was the job. Now applying that same discipline to securing cloud environments.
+was the job. That urgency drives everything I build here.
 
-- 🎯 **ISC2 Candidate**
-- ✅ Completed **TryHackMe's Pre Security Learning Path** (19h 10m hands-on)
+- 🎯 **ISC2 Candidate** &middot; studying for **CompTIA Security+**
+- ✅ **TryHackMe**: 71 rooms completed, 13 badges earned, Top 8% rank, 21-day streak
+- ✅ Completed TryHackMe's **Pre Security Learning Path**, now working through **Cyber 101**
 - ✅ **Cisco Networking Academy**: 7 courses completed, 5 badges earned, incl.
   verified Introduction to Cybersecurity certificate
-- 🔭 Currently building hands-on skills in AWS, Linux, and security fundamentals
 - 🌱 Working toward AWS Cloud Practitioner
-- 💼 Open to entry-level cloud security & SOC opportunities
+- 💼 Open to entry-level SOC, cybersecurity, IT support, GRC/compliance, and cloud roles
 
 🔗 **Portfolio:** [gabbycloudsec.github.io](https://gabbycloudsec.github.io)
 📫 **Email:** GabbyCloudSec@protonmail.com
