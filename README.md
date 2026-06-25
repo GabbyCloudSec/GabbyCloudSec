@@ -6,7 +6,7 @@ was the job. That urgency drives everything I build here.
 
 - 🎯 **ISC2 Candidate** &middot; studying for **CompTIA Security+**
 - ✅ **TryHackMe**: 77 rooms completed, 14 badges earned, Capability Score 34
-  ("Junior Security Professional" tier), Top 7% rank, 21-day streak
+  ("Junior Security Professional" tier), Top 5% rank, 21-day streak
 - ✅ Completed TryHackMe's **Pre Security Learning Path**, now working through **Cyber 101**
 - ✅ **Cisco Networking Academy**: 7 courses completed, 5 badges earned, incl.
   verified Introduction to Cybersecurity certificate
