@@ -5,7 +5,8 @@ where protecting sensitive data and keeping systems running wasn't optional, it
 was the job. That urgency drives everything I build here.
 
 - 🎯 **ISC2 Candidate** &middot; studying for **CompTIA Security+**
-- ✅ **TryHackMe**: 71 rooms completed, 13 badges earned, Top 8% rank, 21-day streak
+- ✅ **TryHackMe**: 77 rooms completed, 14 badges earned, Capability Score 34
+  ("Junior Security Professional" tier), Top 7% rank, 21-day streak
 - ✅ Completed TryHackMe's **Pre Security Learning Path**, now working through **Cyber 101**
 - ✅ **Cisco Networking Academy**: 7 courses completed, 5 badges earned, incl.
   verified Introduction to Cybersecurity certificate
@@ -34,5 +35,4 @@ was the job. That urgency drives everything I build here.
 | [linux-notes](https://github.com/GabbyCloudSec/linux-notes) | Linux administration & Bash | ✅ Active |
 | [windows-ad-notes](https://github.com/GabbyCloudSec/windows-ad-notes) | Windows, Active Directory, identity fundamentals | 🚧 In Progress |
 | [python-security-tools](https://github.com/GabbyCloudSec/python-security-tools) | Hash generator, log analyzer, password checker, port scanner | 🚧 Planned |
-
 
