@@ -1,38 +1,104 @@
-### Hi, I'm Gabriell 👋
+# 🛡️ Gabriell | Cloud Security & SOC Analyst Track
 
-Aspiring **Cloud Security Engineer** with a background in healthcare operations —
-where protecting sensitive data and keeping systems running wasn't optional, it
-was the job. That urgency drives everything I build here.
+Aspiring **Cloud Security Engineer** focused on building real-world skills in security operations, cloud security, and infrastructure protection.
 
-- 🎯 Studying for **CompTIA Security+**
-- ✅ **TryHackMe**: 77 rooms completed, 14 badges earned, Capability Score 34
-  ("Junior Security Professional" tier), Top 5% rank, 21-day streak
-- ✅ Completed TryHackMe's **Pre Security Learning Path**, now working through **Cyber 101**
-- ✅ **Cisco Networking Academy**: 7 courses completed, 5 badges earned, incl.
-  verified Introduction to Cybersecurity certificate
-- 🌱 Working toward AWS Cloud Practitioner
-- 💼 Open to entry-level SOC, cybersecurity, IT support, GRC/compliance, and cloud roles
-
-🔗 **Portfolio:** [gabbycloudsec.github.io](https://gabbycloudsec.github.io)
-📫 **Email:** GabbyCloudSec@protonmail.com
+With a background in healthcare operations, I bring a strong understanding of responsibility, accuracy, and working with sensitive systems under pressure.
 
 ---
 
-**Tech & Tools**
+## 🎯 Focus Areas
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- 🚨 Security Operations (SOC): log analysis, incident investigation, alert triage  
+- ☁️ Cloud Security: AWS IAM, monitoring, and cloud configuration security  
+- 🐧 Systems Security: Linux and Windows analysis and troubleshooting  
+- 📊 Security documentation and reporting  
 
-**Pinned Projects**
+---
 
-| Repo | Focus | Status |
-|---|---|---|
-| [aws-security-labs](https://github.com/GabbyCloudSec/aws-security-labs) | IAM, EC2 hardening, S3, VPC, CloudTrail | ✅ Active |
-| [cloud-security-notes](https://github.com/GabbyCloudSec/cloud-security-notes) | AWS security concepts & best practices | ✅ Active |
-| [linux-notes](https://github.com/GabbyCloudSec/linux-notes) | Linux administration & Bash | ✅ Active |
-| [windows-ad-notes](https://github.com/GabbyCloudSec/windows-ad-notes) | Windows, Active Directory, identity fundamentals | 🚧 In Progress |
-| [python-security-tools](https://github.com/GabbyCloudSec/python-security-tools) | Hash generator, log analyzer, password checker, port scanner | 🚧 Planned |
+## 🧪 What I’m Building
+
+- Hands-on AWS security labs (IAM, S3, CloudTrail, EC2 security)
+- Security investigation practice (log analysis & incident-style scenarios)
+- Cloud security fundamentals and monitoring workflows
+- Beginner security tooling in Python (in progress)
+
+---
+
+## 📚 Current Learning
+
+- 📘 CompTIA Security+ (in progress)  
+- ☁️ AWS Cloud Practitioner (in progress)  
+- 🧠 Security Operations & Cloud Security fundamentals  
+
+---
+
+## 💼 Target Roles
+
+- SOC Analyst (Tier 1)  
+- Cloud Security Analyst  
+- Junior Cloud Security Engineer  
+- IT Security / Security Operations roles  
+
+---
+
+## 🔗 Links
+
+💼 Portfolio: https://gabbycloudsec.github.io  
+💻 GitHub: https://github.com/GabbyCloudSec  
+📫 Email: GabbyCloudSec@protonmail.com  
+
+---
+
+🛡️ # 🛡️ Gabriell | Cloud Security & SOC Analyst Track
+
+Aspiring **Cloud Security Engineer** focused on building real-world skills in security operations, cloud security, and infrastructure protection.
+
+With a background in healthcare operations, I bring a strong understanding of responsibility, accuracy, and working with sensitive systems under pressure.
+
+---
+
+## 🎯 Focus Areas
+
+- 🚨 Security Operations (SOC): log analysis, incident investigation, alert triage  
+- ☁️ Cloud Security: AWS IAM, monitoring, and cloud configuration security  
+- 🐧 Systems Security: Linux and Windows analysis and troubleshooting  
+- 📊 Security documentation and reporting  
+
+---
+
+## 🧪 What I’m Building
+
+- Hands-on AWS security labs (IAM, S3, CloudTrail, EC2 security)
+- Security investigation practice (log analysis & incident-style scenarios)
+- Cloud security fundamentals and monitoring workflows
+- Beginner security tooling in Python (in progress)
+
+---
+
+## 📚 Current Learning
+
+- 📘 CompTIA Security+ (in progress)  
+- ☁️ AWS Cloud Practitioner (in progress)  
+- 🧠 Security Operations & Cloud Security fundamentals  
+
+---
+
+## 💼 Target Roles
+
+- SOC Analyst (Tier 1)  
+- Cloud Security Analyst  
+- Junior Cloud Security Engineer  
+- IT Security / Security Operations roles  
+
+---
+
+## 🔗 Links
+
+💼 Portfolio: https://gabbycloudsec.github.io  
+💻 GitHub: https://github.com/GabbyCloudSec  
+📫 Email: GabbyCloudSec@protonmail.com  
+
+---
+
+🛡️ Hands-on security learning through real-world labs and cloud security scenarios.
 
