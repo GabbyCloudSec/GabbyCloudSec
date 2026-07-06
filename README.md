@@ -1,58 +1,85 @@
 # Hi, I'm Gabriell Bedoy 👋
 ## Cloud Computing | Cybersecurity | Infrastructure
-My goal is to design and maintain secure, reliable cloud environments, and I am building expertise in cloud computing, networking, Linux, and cybersecurity through hands-on projects and ongoing professional development.
+
+Welcome to my GitHub! I'm building practical skills in cloud computing, cybersecurity, and IT infrastructure through hands-on projects, technical documentation, and continuous learning. This GitHub serves as my professional portfolio, where I document projects, technical notes, and the knowledge I am developing as I transition into a technology career.
+
 ---
-## 🎯 Current Focus
-Cloud Computing • Cloud Security • Networking • Linux • Security Operations • Continuous Learning
+
+## 🚀 Featured Repositories
+
+| Repository | Description | Status |
+|------------|-------------|:------:|
+| [Cloud Security Labs](https://github.com/GabbyCloudSec/cloud-security-labs) | Hands-on cloud security projects focused on identity, monitoring, logging, and infrastructure security. | 🟡 Active |
+| [Cloud Security Notes](https://github.com/GabbyCloudSec/cloud-security-notes) | Technical knowledge base covering cloud computing, networking, Linux, and cybersecurity concepts. | 🟡 Active |
+
 ---
-## 🚀 Featured Projects
-| Project | Description | Status |
-|---|---|:---:|
-| AWS Landing Zone Security | Building a secure AWS foundation using IAM, logging, monitoring, and cloud security best practices. | 🟡 In Progress |
+
+## 🎯 Current Learning
+
+☁️ Cloud Computing • 🔐 Cloud Security • 🌐 Networking • 🐧 Linux • 🛡️ Security Fundamentals • 📝 Technical Documentation
+
 ---
-## 🧠 Hands-On Learning
-- ☁️ AWS Skill Builder
-- 🎯 TryHackMe
-- 📦 Hack The Box
-- 🛡️ LetsDefend
-- 🌐 Cisco Networking Academy
+
+## 🛠️ Technologies
+
+**Cloud**
+- Amazon Web Services (AWS)
+
+**Operating Systems**
+- Linux
+- Windows
+
+**Networking**
+- TCP/IP
+- DNS
+- HTTP / HTTPS
+
+**Security**
+- Identity & Access Management (IAM)
+- Cloud Security Fundamentals
+- Security Operations (SOC)
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+
 ---
+
+## 📚 Learning Platforms
+
+- AWS Skill Builder
+- TryHackMe
+- Hack The Box
+- LetsDefend
+- Cisco Networking Academy
+
+---
+
+## 🎓 Education
+
+**Grand Canyon University**
+Completing prerequisite coursework while preparing to transition into the Bachelor of Science in Cybersecurity program.
+
+---
+
 ## 📜 Certifications & Training
-- **AWS Cloud Practitioner Essentials** *(In Progress)*
-- **ISC2 Candidate**
+
+- AWS Skill Builder – Cloud Practitioner Essentials *(In Progress)*
+- ISC2 Candidate
 - Cisco Introduction to Cybersecurity
 - Cisco Introduction to Data Science
 - Cisco Computer Hardware Basics
 - Cisco Digital Awareness
 - IBM SkillsBuild – Customer Engagement Fundamentals
 - HP LIFE – Effective Leadership
+
 ---
-## 🎓 Education
-**Grand Canyon University**
-Currently completing prerequisite coursework while preparing to transition into the Bachelor of Science in Cybersecurity program.
----
-## 🛠️ Core Technologies
-**Cloud**
-- Amazon Web Services (AWS)
-**Operating Systems**
-- Linux
-- Windows
-**Networking**
-- TCP/IP
-- DNS
-- HTTP / HTTPS
-**Security**
-- Identity & Access Management (IAM) *(Learning)*
-- Security Operations (SOC)
-- Cloud Security Fundamentals
-**Tools**
-- Git
-- GitHub
-- Visual Studio Code
----
-## 📫 Let's Connect
+
+## 📫 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabbycloudsec-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabbycloudsec)
+
 ---
-<p align="center">
-  <em>Committed to continuous learning, building practical technical skills, and creating secure cloud solutions.</em>
-</p>
+
+<p align="center"><em>Continuous learning, hands-on projects, and practical experience are the foundation of my career in technology.</em></p>
