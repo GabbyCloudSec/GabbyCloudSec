@@ -60,7 +60,7 @@ A simulated Cloud Support investigation demonstrating Linux troubleshooting, log
 
 - ✅ Linux Fundamentals
 - ✅ Linux Server Investigation
-- 🔄 Linux Permissions & Ownership
+- ⏭️ Linux Permissions & Ownership
 - ⏳ Users & Groups
 - ⏳ Process Management
 - ⏳ Networking
