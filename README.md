@@ -1,52 +1,80 @@
 # Hi, I'm Gabriell Bedoy 👋
 
-**Cloud Computing | Cybersecurity | Infrastructure**
+Aspiring Cloud Support Engineer building hands-on experience with Linux, AWS, networking, Git, and cloud infrastructure through real-world projects.
 
-I build practical, hands-on experience in cloud infrastructure and security through labs that mirror real-world enterprise scenarios — identity management, logging, monitoring, and secure architecture on AWS. This GitHub is my working portfolio: documented projects, technical notes, and the skills I'm building as I move into a cybersecurity career.
+---
 
-## Table of Contents
-- [Featured Repositories](#-featured-repositories)
-- [Skills & Tools](#-skills--tools)
-- [Currently Learning](#-currently-learning)
-- [Education](#-education)
-- [Certifications & Training](#-certifications--training)
-- [Connect With Me](#-connect-with-me)
+## About Me
 
-## 🚀 Featured Repositories
+I'm transitioning into Cloud Support after several years in customer-focused support, where I developed strong troubleshooting, communication, and problem-solving skills.
 
-| Repository | Description | Status |
-|---|---|---|
-| [cloud-infrastructure-labs](https://github.com/GabbyCloudSec/cloud-infrastructure-labs) | Hands-on AWS labs covering IAM, networking, logging (CloudTrail), and monitoring — built around real security scenarios, not just tutorials. | 🟡 Active |
-| [cloud-security-notes](https://github.com/GabbyCloudSec/cloud-security-notes) | A technical knowledge base on cloud security, networking, and Linux fundamentals, written as I learn. | 🟡 Active |
-| [gabbycloudsec.github.io](https://gabbycloudsec.github.io) | My personal portfolio site — projects, background, and contact info in one place. | 🟢 Live |
+I'm building practical experience through home labs, technical documentation, and portfolio projects while continuing to strengthen my Linux, AWS, networking, and automation skills.
 
-## 🛠️ Skills & Tools
+---
 
-**Cloud:** AWS (IAM, CloudTrail, EC2, S3)
-**Operating Systems:** Linux, Windows
-**Networking:** TCP/IP, DNS, HTTP/HTTPS
-**Security:** Identity & Access Management, Cloud Security Fundamentals, SOC Operations
-**Tooling:** Git, GitHub, VS Code, Bash
+## Current Focus
 
-## 🎯 Currently Learning
+- Linux System Administration
+- AWS Cloud Fundamentals
+- Networking
+- Git & GitHub
+- Technical Documentation
+- Cloud Support Troubleshooting
 
-Cloud Security · Networking · Linux Administration · Security Fundamentals · Technical Documentation
+---
 
-Practicing on: **AWS Skill Builder**, **TryHackMe**, **Hack The Box**, **LetsDefend**, **Cisco Networking Academy**
+## Technical Skills
 
-## 🎓 Education
+### Operating Systems
+- Linux (Ubuntu)
+- Windows
 
-**Grand Canyon University** — Completing prerequisite coursework ahead of the B.S. in Cybersecurity program.
+### Cloud
+- AWS (Learning)
 
-## 📜 Certifications & Training
+### Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
 
-- AWS Skill Builder — Cloud Practitioner Essentials *(in progress)*
-- ISC2 Candidate
-- Cisco: Introduction to Cybersecurity, Introduction to Data Science, Computer Hardware Basics, Digital Awareness
-- IBM SkillsBuild — Customer Engagement Fundamentals
-- HP LIFE — Effective Leadership
+### Tools
+- Git
+- GitHub
+- VS Code
+- WSL
+- Nano
 
-## 📫 Connect With Me
+---
 
-- 💼 LinkedIn: [linkedin.com/in/gabbycloudsec](https://linkedin.com/in/gabbycloudsec)
-- 📧 Email: gabbycloudsec@protonmail.com
+## Featured Projects
+
+### Linux Server Investigation
+
+A simulated Cloud Support investigation demonstrating Linux troubleshooting, log analysis, Git workflow, and professional technical documentation.
+
+🔗 https://github.com/GabbyCloudSec/linux-server-investigation
+
+---
+
+## Current Learning Roadmap
+
+- ✅ Linux Fundamentals
+- ✅ Linux Server Investigation
+- 🔄 Linux Permissions & Ownership
+- ⏳ Users & Groups
+- ⏳ Process Management
+- ⏳ Networking
+- ⏳ AWS EC2
+- ⏳ AWS IAM
+- ⏳ Python Automation
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/gabbycloudsec
+- Portfolio: Coming Soon
+
+---
+
+> Building one project at a time while developing the technical and communication skills needed for a Cloud Support Engineering career.
