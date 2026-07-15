@@ -1,6 +1,6 @@
 # Hi, I'm Gabriell Bedoy 👋
 
-Aspiring Cloud Support Engineer building hands-on experience with Linux, AWS, networking, Git, and cloud infrastructure through real-world projects.
+Aspiring Cloud Support Engineer building hands-on experience with Linux, AWS, networking, Git, and cloud infrastructure through real-world projects and technical documentation.
 
 ---
 
@@ -8,7 +8,7 @@ Aspiring Cloud Support Engineer building hands-on experience with Linux, AWS, ne
 
 I'm transitioning into Cloud Support after several years in customer-focused support, where I developed strong troubleshooting, communication, and problem-solving skills.
 
-I'm building practical experience through home labs, technical documentation, and portfolio projects while continuing to strengthen my Linux, AWS, networking, and automation skills.
+I'm building practical experience through Linux home labs, cloud projects, and technical documentation while continuing to strengthen my Linux, AWS, networking, Git, and automation skills.
 
 ---
 
@@ -16,7 +16,7 @@ I'm building practical experience through home labs, technical documentation, an
 
 - Linux System Administration
 - AWS Cloud Fundamentals
-- Networking
+- Networking Fundamentals
 - Git & GitHub
 - Technical Documentation
 - Cloud Support Troubleshooting
@@ -40,17 +40,33 @@ I'm building practical experience through home labs, technical documentation, an
 ### Tools
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - WSL
-- Nano
+- Bash
 
 ---
 
 ## Featured Projects
 
+### Linux Permissions & Ownership
+
+Hands-on Linux permissions project demonstrating symbolic and numeric permissions, least privilege, access control, and troubleshooting.
+
+🔗 https://github.com/GabbyCloudSec/linux-permissions-ownership
+
+---
+
+### Linux Users & Groups Administration
+
+Configured Linux users, groups, ownership, and secure shared resources while troubleshooting real-world access issues.
+
+🔗 https://github.com/GabbyCloudSec/linux-users-groups
+
+---
+
 ### Linux Server Investigation
 
-A simulated Cloud Support investigation demonstrating Linux troubleshooting, log analysis, Git workflow, and professional technical documentation.
+Performed an evidence-based investigation of a simulated application outage using Linux log analysis and technical documentation.
 
 🔗 https://github.com/GabbyCloudSec/linux-server-investigation
 
@@ -59,21 +75,25 @@ A simulated Cloud Support investigation demonstrating Linux troubleshooting, log
 ## Current Learning Roadmap
 
 - ✅ Linux Fundamentals
+- ✅ Linux Permissions & Ownership
+- ✅ Linux Users & Groups Administration
 - ✅ Linux Server Investigation
-- ✅ Linux Permissions Troubleshooting
-- ⏳ Users & Groups
 - ⏳ Process Management
 - ⏳ Networking
 - ⏳ AWS EC2
 - ⏳ AWS IAM
 - ⏳ Python Automation
 
+View the complete roadmap:
+
+🔗 https://github.com/GabbyCloudSec/Cloud-Support-Journey
+
 ---
 
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/gabbycloudsec
-- Portfolio: Coming Soon
+- GitHub: https://github.com/GabbyCloudSec
 
 ---
 
