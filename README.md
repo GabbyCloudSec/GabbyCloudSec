@@ -72,17 +72,33 @@ Performed an evidence-based investigation of a simulated application outage usin
 
 ---
 
+## Recent Milestones
+
+- ✅ AWS Cloud Practitioner Essentials — July 2026
+- ✅ Linux Fundamentals
+- ✅ Linux Permissions & Ownership
+- ✅ Linux Users & Groups Administration
+- ✅ Linux Server Investigation
+- ✅ TryHackMe Pre Security
+
+---
+
 ## Current Learning Roadmap
 
 - ✅ Linux Fundamentals
 - ✅ Linux Permissions & Ownership
 - ✅ Linux Users & Groups Administration
 - ✅ Linux Server Investigation
-- ⏳ Process Management
-- ⏳ Networking
-- ⏳ AWS EC2
-- ⏳ AWS IAM
-- ⏳ Python Automation
+- ✅ AWS Cloud Practitioner Essentials
+- ⏳ AWS EC2 Web Server
+- ⏳ AWS IAM Administration
+- ⏳ Linux Process Management
+- ⏳ Linux Networking
+- ⏳ Bash Automation
+
+View the complete roadmap:
+
+🔗 https://github.com/GabbyCloudSec/Cloud-Support-Journey
 
 View the complete roadmap:
 
