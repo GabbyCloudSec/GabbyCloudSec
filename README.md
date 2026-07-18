@@ -1,4 +1,4 @@
-# Hi, I'm Gabriell Bedoy 👋
+# Hi, I'm Gabriell Bedoy
 
 ## Aspiring Cloud Support Engineer
 
@@ -8,7 +8,7 @@ Today, I'm building hands-on experience through Linux administration, networking
 
 ---
 
-## 🚧 Current Focus
+## Current Focus
 
 I'm currently building my **Networking Fundamentals & Troubleshooting** project before moving into AWS infrastructure and cloud networking.
 
@@ -25,7 +25,7 @@ Current areas of focus include:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Operating Systems
 - Linux (Ubuntu)
@@ -49,60 +49,43 @@ Current areas of focus include:
 
 ---
 
-# 📂 Featured Projects
+## Featured Projects
 
-## ☁️ Cloud Support Engineering Journey
+### Cloud Support Engineering Journey
 
 A structured portfolio documenting my transition into cloud computing through hands-on labs, technical documentation, and real-world projects.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/Cloud-Support-Journey
+**Repository:** https://github.com/GabbyCloudSec/Cloud-Support-Journey
 
 ---
 
-## 🖥️ Linux Server Investigation
+### Linux Server Investigation
 
 Performed an evidence-based investigation of a simulated application outage using Linux log analysis, troubleshooting methodology, and professional technical documentation.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-server-investigation
+**Repository:** https://github.com/GabbyCloudSec/linux-server-investigation
 
 ---
 
-## 🔐 Linux Permissions & Ownership
+### Linux Permissions & Ownership
 
 Configured Linux file permissions, ownership, and least-privilege access through a practical Linux administration scenario.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-permissions-ownership
+**Repository:** https://github.com/GabbyCloudSec/linux-permissions-ownership
 
 ---
 
-## 👥 Linux Users & Groups Administration
+### Linux Users & Groups Administration
 
 Created Linux users and groups, configured secure shared resources, and verified access using Linux administration best practices.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-users-groups-administration
+**Repository:** https://github.com/GabbyCloudSec/linux-users-groups-administration
 
 ---
 
-## 🎯 Recent Milestones
+## Learning Roadmap
 
-- Cloud Support Engineering Journey portfolio created
-- Linux Fundamentals completed
-- Linux Server Investigation completed
-- Linux Permissions & Ownership completed
-- Linux Users & Groups Administration completed
-- AWS Cloud Practitioner Essentials completed
-- TryHackMe Pre Security completed
-
----
-
-## 🗺️ Learning Roadmap
-
-### ✅ Completed
-
+### Completed
 - Development Environment Setup
 - Linux Fundamentals
 - Linux Server Investigation
@@ -110,12 +93,10 @@ https://github.com/GabbyCloudSec/linux-users-groups-administration
 - Linux Users & Groups Administration
 - AWS Cloud Practitioner Essentials
 
-### 🚧 Currently Building
-
+### Currently Building
 - Networking Fundamentals & Troubleshooting
 
-### 📅 Planned
-
+### Planned
 - DNS Troubleshooting
 - AWS EC2 Web Server
 - AWS IAM Security
@@ -125,18 +106,15 @@ https://github.com/GabbyCloudSec/linux-users-groups-administration
 - Docker Fundamentals
 - Terraform Fundamentals
 
-View the complete roadmap:
-
-**Cloud Support Engineering Journey**  
-https://github.com/GabbyCloudSec/Cloud-Support-Journey
+View the complete roadmap: https://github.com/GabbyCloudSec/Cloud-Support-Journey
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** https://linkedin.com/in/gabbycloudsec
 - **GitHub:** https://github.com/GabbyCloudSec
 
 ---
 
-> *Building practical cloud support skills through hands-on projects, continuous learning, and professional technical documentation—one project at a time.*
+> *Building practical cloud support skills through hands-on projects, continuous learning, and professional technical documentation — one project at a time.*
