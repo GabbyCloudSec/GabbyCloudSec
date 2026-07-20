@@ -29,8 +29,7 @@ My goal is to begin my career as a **Cloud Support Engineer** while continuing t
 
 My roadmap documenting projects, labs, and progress toward becoming a Cloud Support Engineer.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/Cloud-Support-Journey
+**Repository:** [Cloud Support Journey](https://github.com/GabbyCloudSec/Cloud-Support-Journey)
 
 ---
 
@@ -38,8 +37,7 @@ https://github.com/GabbyCloudSec/Cloud-Support-Journey
 
 Investigated a simulated Linux server issue using structured troubleshooting, log analysis, and professional technical documentation.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-server-investigation
+**Repository:** [Linux Server Investigation](https://github.com/GabbyCloudSec/linux-server-investigation)
 
 ---
 
@@ -47,8 +45,8 @@ https://github.com/GabbyCloudSec/linux-server-investigation
 
 Managed Linux users, groups, and access control while applying Linux administration best practices.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-users-groups-administration
+**Repository:** [Linux Users & Groups Administration](https://github.com/GabbyCloudSec/linux-users-groups-administration)
+
 
 ---
 
@@ -56,8 +54,7 @@ https://github.com/GabbyCloudSec/linux-users-groups-administration
 
 Configured Linux permissions and file ownership while applying the Principle of Least Privilege.
 
-**Repository:**  
-https://github.com/GabbyCloudSec/linux-permissions-ownership
+**Repository:** [Linux Permissions & Ownership](https://github.com/GabbyCloudSec/linux-permissions-ownership)
 
 ---
 
@@ -77,4 +74,4 @@ https://github.com/GabbyCloudSec/linux-permissions-ownership
 
 Thank you for visiting my GitHub!
 
-Feel free to explore my projects as I continue building real-world cloud support skills through hands-on learning and technical documentation.
+Feel free to explore my projects as I continue building practical cloud support skills through hands-on learning and technical documentation.
